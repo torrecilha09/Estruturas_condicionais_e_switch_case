@@ -1,2 +1,2 @@
-# Estruturas_condicionais_e_switch_case
-Estruturas de condição em switch case
+# Estruturas-condicionais-e-switch-case
+Trabalhando com if, else if, else e estrutura de decisão switch case.

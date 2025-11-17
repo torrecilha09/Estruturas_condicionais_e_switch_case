@@ -1,0 +1,22 @@
+#include <iostream>
+#include <string>
+using namespace std;
+
+int main()
+{
+  float temp;
+  
+  cout << "Digite a temperatura local: ";
+  cin>> temp;
+  
+  if (temp < 15) {
+      cout << "Clima frio";
+  } else if (temp > 30) {
+  cout << "Clima quente";
+  } else {
+      cout << "Clima moderado";
+  }
+  
+    return 0;
+}
+
